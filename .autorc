@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Arti-dos",
+  "repo": "container-nj0uqr0",
+  "name": "Arti-dos",
+}
